@@ -4,17 +4,17 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Minicurso - Levantamento Bibliográfico e Gerenciador de Referências</title>
+		<title>Professor Eric Brasil</title>
 		<meta name="author" content="Eric Brasil">
-        
-        <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/night.css">
+		<link rel="stylesheet" href="css/theme/blood.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -32,204 +32,79 @@
 		<div class="reveal">
 			<div class="slides">
 				<section>
-					<h1>II Semana de História</h1>
-					<h2>Unilab - IHL, Campus dos Malês</h2>
-					<small>Minicurso - 27/11/2019, 9h-12h e 28/11/2019, 14h-17h</small>
+					<section>
+						<h1>Eric Brasil</h1>
+						<h4>Doutor em História</h4>
+						<a href="#" class="navigate-down"></a>
+					</section>
+
+						<section>
+							<h4>Professor do Curso de Licenciatura em História e do Bacharelado Interdisciplinar em Humanidades</h4>
+							<h4>Coordenador do Curso de Licenciatura em História (jan, 2019 - jan, 2021)</h4>
+							<p>Instituto de Humanidades e Letras, campus dos Malês - Unilab</p>
+						</section>
 				</section>
 
 				<section>
-					<h2>Levantamento bibliográfico e gerenciamento de referências em meio digital</h2>
-					<small>Prof <a href="https://www.researchgate.net/profile/Eric_Brasil">Eric Brasil</a></small>
-					<small>- Coordenador do Curso de Licenciatura em História</small>
-					<small>contato: profericbrasil@unilab.ecu.br</small>
+					<h4>Sumário:</h4>
+					<ol>
+						<li><a href="#/2">Currículo e Produções</a></li>
+						<li><a href="#/3">Contatos</a></li>
+						<li><a href="#/4">Apresentações</a</li>
+					</ol>
 				</section>
 
 				<section>
-					<h2>Humanidades Digitais</h2>
-					<p>Desafios, limites e possibilidades impostas pelas tecnologias de informação e comunicação na pesquisa em humanidades
-					</p>
-				</section>
-
-				<section>
-					<section data-background="https://images.pexels.com/photos/1907785/pexels-photo-1907785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-opacity="0.5">
-						<h2><strong>Primeiro passo em qualquer pesquisa: levantamento bibliográfico</strong></h2>
-
-						<br>
+					<section>
+						<h2>Currículo e produções</h2>
+						<p> Professor do Curso de Licenciatura em História e do Bacharelado Interdisciplinar em Humanidades (IHL-Malês, Unilab). Mestre e Doutor pela Universidade Federal Fluminense.</p>
 						<a href="#" class="navigate-down"> </a>
 					</section>
 
-					<section data-background-image="https://cdn.pixabay.com/photo/2015/12/19/20/34/phone-1100260_960_720.jpg" data-background-opacity="0.5">
-						<h4><strong>Quais as diferências da pesquisa digital para a analógica?</strong></h4>
-					</section>
-
 					<section>
-						<h2>Principais ferramentas digitais</h2>
-						<p>Apesar da frequência com que utilizamos ferramentas de buscas on-line, poucas vezes refletimos sobre seu funcionamento e suas implicações.</p>
-					</section>
-
-					<section>
-						<h4>Muitos elementos influenciam nos resultados de uma busca:</h4>
+						<h4>Áreas de atuação<h4>
 						<ul>
-							<li>os termos utilizados</li>
-							<li>os sites acessados</li>
-							<li>histórico dos algorítmos de seu IP</li>
+							<li>História Social da Cultura e História Digital</li>
+							<li>Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe</li>
+							<li>Carnaval, Cidadania, História Transnacional.</li>
 						</ul>
 					</section>
 
 					<section>
-						<h3> <a href="https://scholar.google.com.br/scholar?q=">Google Acadêmico</a></h3>
+						<h3><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4223037Z2">Lattes</a></h3>
+						<h3><a href="https://www.researchgate.net/profile/Eric_Brasil">Research Gate</a></h3>
+						<h3><a href="https://unilab.academia.edu/EricBrasil">Academia.edu</a></h3>
 					</section>
-
-					<section>
-						<h3> <a href="https://www.periodicos.capes.gov.br/">Periódicos Capes</a></h3>
-                    </section>
-
-					<section>
-						<h3> <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp">Domínio Público</a></h3>
-					</section>
-
-					<section>
-						<h3> <a href="https://www.academia.edu/">Academia.edu</a> </h3>
-					</section>
-
-					<section>
-						<h3> <a href="https://www.researchgate.net/">Research Gate</a> </h3>
-					</section>
-
-					<section>
-						<h3> <a href="https://repositorio.ufba.br/ri/">Bancos de teses e dissertações das IES</a> </h3>
-					</section>
-
-					<section>
-						<h3> <a href="https://archive.org/">Internet Archive</a> </h3>
-					</section>
-				</section>
-
-				<section data-transition="slide" data-background="#5d0000" data-background-transition="zoom">
-					<section>
-						<h2>Ok, Google!</h2>
-						<p>Talvez uma das ferramentas mais utilizadas para a busca inicial de bibliografia seja o <a href="http://google.com.br">Google</a></p>
-					</section>
-					
-					<section>
-						<h2>Mas é pouco!</h2>
-						<p>Um recurso do Google muito útil é o  <a href="https://scholar.google.com.br/">Google Acadêmico</a>.</p>
-						<p>Com ele suas buscas podem ser feitas de forma mais precisa.</p>
-						<br>
-						<a href="#" class="navigate-down">
-						</a>
-					</section>
-
-					<section>
-						<h2>Extensão para o Chrome</h2>
-						<p>Instalando essa <a href="https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=pt-BR">extensão</a>, vc poderá agilizar suas buscas</p>
-						<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">
-					</section>
-                </section>
-
-				<section data-transition="slide" data-background="#5b4171" data-background-transition="zoom">
-					<section>
-						<h2>Repositórios de acesso fechado</h2>
-						<p>Muitas revistas, especialmente internacionais, não têm acesso livre e gratuito. Entretanto, as universidades brasileiras garantem o acesso a várias delas, seja através da consulta nos campi seja através de proxy.
-					</section>
-
-					<section>
-						<h4>Vejamos alguns desses repositórios e vamos testar o acesso que a Unilab nos permite</h4>
-					</section>
-
-					<section>
-						<h3><a href="https://www.jstor.org/">JStor</a></h3>
-					</section>
-
-					<section>
-						<h3><a href="https://muse.jhu.edu/">Project Muse</a></h3>
-					</section>
-				</section>
-
-                <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
-					<section>
-						<h1> <strong>Hacker aqui</strong></h1>
-						<br>
-						<h4 class= "fragment grow"><a href="https://sci-hub.tw/">Sci-hub</a></h4>
-						<h4 class= "fragment grow"><a href="http://gen.lib.rus.ec/">Library Genesis</a></h4>
-						<h4 class= "fragment grow"><a href="https://piratebay-proxylist.se/?utm_source=expired&referral=bayahoy.info">Pirate Bay</a></h4>
-					</section>
-					<section data-background-iframe="https://giphy.com/embed/mIZ9rPeMKefm0" >
-                        <p></p>
-                        <br>
-                    </section>
 				</section>
 
 				<section>
+					<h2>Contatos</h2>
+					<p>E-mail: profericbrasil@unilab.edu.br</p>
+					<p><a href="https://twitter.com/ericbrasiln">Twitter</a></p>
+					<p><a href="https://www.instagram.com/profericbrasil/">Instagram</a></p>
+					</p>
+				</section>
 
+				<section data-transition="slide" data-background="#74001c" data-background-transition="zoom">
 					<section>
-						<h2>Gerenciamento de Referências bibliográficas</h2>
-						<p>um recurso indispensável</p>
+						<h2>Apresentações</h2>
 						<a href="#" class="navigate-down">
 						</a>
 					</section>
 
-						<section>
-							<h2><a href="https://www.zotero.org/">Zotero</a></h2>
-							<p>Limites, possibilidades e funcionalidades do software</p>
-						</section>
-
-						<section>
-							<h2>Downloads</h2>
-							<p>Baixe o <a href="https://www.zotero.org/download/">app e a extensão</a> para seu browser.</p>
-						</section>
-
-						<section>
-							<h3>Criando uma conta.</h3>
-						</section>
-
-						<section>
-							<h3>Configurando o app</h3>
-						</section>
-
-						<section>
-							<h3>Criando bibliotecas e coleções</h3>
-						</section>
-
-						<section>
-							<h3>Adicionando itens</h3>
-						</section>
-
-						<section>
-							<h3>Extensão no browser</h3>
-						</section>
-
-						<section>
-							<h3>Tags</h3>
-						</section>
-
-						<section>
-							<h3>Grupos</h3>
-						</section>
-				</section>
-
-				<section>
 					<section>
-						<h2>Usando o plugin nos editores de texto</h2>
-						<small>pra mudar sua vida</small>
-						<a href="#" class="navigate-down">
-						</a>
+						<h2>II Semana de História</h2>
+						<p> Minicurso - Levantemaneto Bibliográfico e Gerenciamento de Referências</p>
 					</section>
-						<section>
-							<h3>Incluir citação</h3>
-						</section>
-				</section>
+        </section>
 
-                <section>
-                    <section data-background-iframe="https://giphy.com/embed/cODrlNTkGnZGVtVagd" data-background-opacity="0.5">
-                        <br>
-						<br>
-						<br>
-						<br>
-						<h2><strong>Cuidado com seus dados!</strong></h2>
-                    </section>
-                </section>
-            </div>
+				<section data-transition="slide" data-background="#343018" data-background-transition="zoom">
+					<small> produzido a partir de <a href="http://hakim.se">Reveal.js</a></p>
+
+
+
+
+      </div>
 		</div>
 
 		<script src="js/reveal.js"></script>
