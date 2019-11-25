@@ -1,22 +1,20 @@
 <!doctype html>
-<html lang="en">
-
+<html>
 	<head>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js – The HTML Presentation Framework</title>
-
-		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="Hakim El Hattab">
-
-		<meta name="apple-mobile-web-app-capable" content="yes">
+		<title>Minicurso - Levantamento Bibliográfico e Gerenciador de Referências</title>
+		<meta name="author" content="Eric Brasil">
+        
+        <meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/moon.css" id="theme">
+		<link rel="stylesheet" href="css/theme/night.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -29,397 +27,336 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
-
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
 	</head>
-
 	<body>
-
 		<div class="reveal">
-
-			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
-					<h1>Reveal.js</h1>
-					<h3>The HTML Presentation Framework</h3>
-					<p>
-						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
+					<h1>II Semana de História</h1>
+					<h2>Unilab - IHL, Campus dos Malês</h2>
+					<small>Minicurso - 27/11/2019, 9h-12h e 28/11/2019, 14h-17h</small>
+				</section>
+
+				<section>
+					<h2>Levantamento bibliográfico e gerenciamento de referências em meio digital</h2>
+					<small>Prof <a href="https://www.researchgate.net/profile/Eric_Brasil">Eric Brasil</a></small>
+					<small>- Coordenador do Curso de Licenciatura em História</small>
+					<small>contato: profericbrasil@unilab.ecu.br</small>
+				</section>
+
+				<section>
+					<h2>Humanidades Digitais</h2>
+					<p>Desafios, limites e possibilidades impostas pelas tecnologias de informação e comunicação na pesquisa em humanidades
 					</p>
 				</section>
 
 				<section>
-					<h2>Hello There</h2>
-					<p>
-						reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-					</p>
-				</section>
+					<section data-background="https://images.pexels.com/photos/1907785/pexels-photo-1907785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-opacity="0.5">
+						<h2><strong>Primeiro passo em qualquer pesquisa: levantamento bibliográfico</strong></h2>
 
-				<!-- Example of nested vertical slides -->
-				<section>
+						<br>
+						<a href="#" class="navigate-down"> </a>
+					</section>
+
+					<section data-background-image="https://cdn.pixabay.com/photo/2015/12/19/20/34/phone-1100260_960_720.jpg" data-background-opacity="0.5">
+						<h4><strong>Quais as diferências da pesquisa digital para a analógica?</strong></h4>
+					</section>
+
 					<section>
-						<h2>Vertical Slides</h2>
-						<p>Slides can be nested inside of each other.</p>
-						<p>Use the <em>Space</em> key to navigate through all slides.</p>
+						<h2>Principais ferramentas digitais</h2>
+						<p>Apesar da frequência com que utilizamos ferramentas de buscas on-line, poucas vezes refletimos sobre seu funcionamento e suas implicações.</p>
+					</section>
+
+					<section>
+						<h4>Muitos elementos influenciam nos resultados de uma busca:</h4>
+						<ul>
+							<li>os termos utilizados</li>
+							<li>os sites acessados</li>
+							<li>histórico dos algorítmos de seu IP</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3> <a href="https://scholar.google.com.br/scholar?q=">Google Acadêmico</a></h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.periodicos.capes.gov.br/">Periódicos Capes</a></h3>
+                    </section>
+
+					<section>
+						<h3> <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp">Domínio Público</a></h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.academia.edu/">Academia.edu</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.researchgate.net/">Research Gate</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://repositorio.ufba.br/ri/">Bancos de teses e dissertações das IES</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://archive.org/">Internet Archive</a> </h3>
+					</section>
+				</section>
+
+				<section data-transition="slide" data-background="#5d0000" data-background-transition="zoom">
+					<section>
+						<h2>Ok, Google!</h2>
+						<p>Talvez uma das ferramentas mais utilizadas para a busca inicial de bibliografia seja o <a href="http://google.com.br">Google</a></p>
+					</section>
+					
+					<section>
+						<h2>Mas é pouco!</h2>
+						<p>Um recurso do Google muito útil é o  <a href="https://scholar.google.com.br/">Google Acadêmico</a>.</p>
+						<p>Com ele suas buscas podem ser feitas de forma mais precisa.</p>
 						<br>
 						<a href="#" class="navigate-down">
-							<img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
 						</a>
 					</section>
+
 					<section>
-						<h2>Basement Level 1</h2>
-						<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+						<h2>Extensão para o Chrome</h2>
+						<p>Instalando essa <a href="https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=pt-BR">extensão</a>, vc poderá agilizar suas buscas</p>
+						<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">
 					</section>
+                </section>
+
+				<section data-transition="slide" data-background="#5b4171" data-background-transition="zoom">
 					<section>
-						<h2>Basement Level 2</h2>
-						<p>That's it, time to go back up.</p>
+						<h2>Repositórios de acesso fechado</h2>
+						<p>Muitas revistas, especialmente internacionais, não têm acesso livre e gratuito. Entretanto, as universidades brasileiras garantem o acesso a várias delas, seja através da consulta nos campi seja através de proxy.
+					</section>
+
+					<section>
+						<h4>Vejamos alguns desses repositórios e vamos testar o acesso que a Unilab nos permite</h4>
+					</section>
+
+					<section>
+						<h3><a href="https://www.jstor.org/">JStor</a></h3>
+					</section>
+
+					<section>
+						<h3><a href="https://muse.jhu.edu/">Project Muse</a></h3>
+					</section>
+				</section>
+
+                <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
+					<section>
+						<h1> <strong>Hacker aqui</strong></h1>
 						<br>
-						<a href="#/2">
-							<img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+						<h4 class= "fragment grow"><a href="https://sci-hub.tw/">Sci-hub</a></h4>
+						<h4 class= "fragment grow"><a href="http://gen.lib.rus.ec/">Library Genesis</a></h4>
+						<h4 class= "fragment grow"><a href="https://piratebay-proxylist.se/?utm_source=expired&referral=bayahoy.info">Pirate Bay</a></h4>
+					</section>
+					<section data-background-iframe="https://giphy.com/embed/mIZ9rPeMKefm0" >
+                        <p></p>
+                        <br>
+                    </section>
+				</section>
+
+				<section>
+
+					<section>
+						<h2>Gerenciamento de Referências bibliográficas</h2>
+						<p>um recurso indispensável</p>
+						<a href="#" class="navigate-down">
 						</a>
 					</section>
-				</section>
 
-				<section>
-					<h2>Slides</h2>
-					<p>
-						Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="https://slides.com" target="_blank">https://slides.com</a>.
-					</p>
-				</section>
-
-				<section>
-					<h2>Point of View</h2>
-					<p>
-						Press <strong>ESC</strong> to enter the slide overview.
-					</p>
-					<p>
-						Hold down the <strong>alt</strong> key (<strong>ctrl</strong> in Linux) and click on any element to zoom towards it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Click again to zoom back out.
-					</p>
-					<p>
-						(NOTE: Use ctrl + click in Linux.)
-					</p>
-				</section>
-
-				<section>
-					<h2>Touch Optimized</h2>
-					<p>
-						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-					</p>
-				</section>
-
-				<section data-markdown>
-					<script type="text/template">
-						## Markdown support
-
-						Write content using inline or external Markdown.
-						Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-
-						```
-						<section data-markdown>
-						  ## Markdown support
-
-						  Write content using inline or external Markdown.
-						  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+						<section>
+							<h2><a href="https://www.zotero.org/">Zotero</a></h2>
+							<p>Limites, possibilidades e funcionalidades do software</p>
 						</section>
-						```
-					</script>
+
+						<section>
+							<h2>Downloads</h2>
+							<p>Baixe o <a href="https://www.zotero.org/download/">app e a extensão</a> para seu browser.</p>
+						</section>
+
+						<section>
+							<h3>Criando uma conta.</h3>
+						</section>
+
+						<section>
+							<h3>Configurando o app</h3>
+						</section>
+
+						<section>
+							<h3>Criando bibliotecas e coleções</h3>
+						</section>
+
+						<section>
+							<h3>Adicionando itens</h3>
+						</section>
+
+						<section>
+							<h3>Extensão no browser</h3>
+						</section>
+
+						<section>
+							<h3>Tags</h3>
+						</section>
+
+						<section>
+							<h3>Grupos</h3>
+						</section>
 				</section>
 
 				<section>
-					<section id="fragments">
-						<h2>Fragments</h2>
-						<p>Hit the next arrow...</p>
-						<p class="fragment">... to step through ...</p>
-						<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
-
-						<aside class="notes">
-							This slide has fragments which are also stepped through in the notes window.
-						</aside>
-					</section>
 					<section>
-						<h2>Fragment Styles</h2>
-						<p>There's different types of fragments, like:</p>
-						<p class="fragment grow">grow</p>
-						<p class="fragment shrink">shrink</p>
-						<p class="fragment fade-out">fade-out</p>
-						<p>
-							<span style="display: inline-block;" class="fragment fade-right">fade-right, </span>
-							<span style="display: inline-block;" class="fragment fade-up">up, </span>
-							<span style="display: inline-block;" class="fragment fade-down">down, </span>
-							<span style="display: inline-block;" class="fragment fade-left">left</span>
-						</p>
-						<p class="fragment fade-in-then-out">fade-in-then-out</p>
-						<p class="fragment fade-in-then-semi-out">fade-in-then-semi-out</p>
-						<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
-					</section>
-				</section>
-
-				<section id="transitions">
-					<h2>Transition Styles</h2>
-					<p>
-						You can select from different transitions, like: <br>
-						<a href="?transition=none#/transitions">None</a> -
-						<a href="?transition=fade#/transitions">Fade</a> -
-						<a href="?transition=slide#/transitions">Slide</a> -
-						<a href="?transition=convex#/transitions">Convex</a> -
-						<a href="?transition=concave#/transitions">Concave</a> -
-						<a href="?transition=zoom#/transitions">Zoom</a>
-					</p>
-				</section>
-
-				<section id="themes">
-					<h2>Themes</h2>
-					<p>
-						reveal.js comes with a few themes built in: <br>
-						<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;">Blood</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
-					</p>
-				</section>
-
-				<section>
-					<section data-background="#dddddd">
-						<h2>Slide Backgrounds</h2>
-						<p>
-							Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
-						</p>
+						<h2>Usando o plugin nos editores de texto</h2>
+						<small>pra mudar sua vida</small>
 						<a href="#" class="navigate-down">
-							<img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
 						</a>
 					</section>
-					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png">
-						<h2>Image Backgrounds</h2>
-						<pre><code class="hljs html">&lt;section data-background="image.png"&gt;</code></pre>
-					</section>
-					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px">
-						<h2>Tiled Backgrounds</h2>
-						<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
-					</section>
-					<section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000">
-						<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
-							<h2>Video Backgrounds</h2>
-							<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
-						</div>
-					</section>
-					<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-						<h2>... and GIFs!</h2>
-					</section>
+						<section>
+							<h3>Incluir citação</h3>
+						</section>
 				</section>
 
-				<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
-					<h2>Background Transitions</h2>
-					<p>
-						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-					</p>
-					<pre><code class="hljs javascript">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
-				</section>
-
-				<section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
-					<h2>Background Transitions</h2>
-					<p>
-						You can override background transitions per-slide.
-					</p>
-					<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
-				</section>
-
-				<section data-background-iframe="https://hakim.se" data-background-interactive>
-					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-						<h2>Iframe Backgrounds</h2>
-						<p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.</p>
-					</div>
-				</section>
-
-				<section>
-					<h2>Pretty Code</h2>
-					<pre><code class="hljs" data-trim data-line-numbers="4,8-9">
-import React, { useState } from 'react';
-
-function Example() {
-  const [count, setCount] = useState(0);
-
-  return (
-    &lt;div&gt;
-      &lt;p&gt;You clicked {count} times&lt;/p&gt;
-      &lt;button onClick={() =&gt; setCount(count + 1)}&gt;
-        Click me
-      &lt;/button&gt;
-    &lt;/div&gt;
-  );
-}
-					</code></pre>
-					<p>Code syntax highlighting courtesy of <a href="http://softwaremaniacs.org/soft/highlight/en/description/">highlight.js</a>.</p>
-				</section>
-
-				<section>
-					<h2>Marvelous List</h2>
-					<ul>
-						<li>No order here</li>
-						<li>Or here</li>
-						<li>Or here</li>
-						<li>Or here</li>
-					</ul>
-				</section>
-
-				<section>
-					<h2>Fantastic Ordered List</h2>
-					<ol>
-						<li>One is smaller than...</li>
-						<li>Two is smaller than...</li>
-						<li>Three!</li>
-					</ol>
-				</section>
-
-				<section>
-					<h2>Tabular Tables</h2>
-					<table>
-						<thead>
-							<tr>
-								<th>Item</th>
-								<th>Value</th>
-								<th>Quantity</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>Apples</td>
-								<td>$1</td>
-								<td>7</td>
-							</tr>
-							<tr>
-								<td>Lemonade</td>
-								<td>$2</td>
-								<td>18</td>
-							</tr>
-							<tr>
-								<td>Bread</td>
-								<td>$3</td>
-								<td>2</td>
-							</tr>
-						</tbody>
-					</table>
-				</section>
-
-				<section>
-					<h2>Clever Quotes</h2>
-					<p>
-						These guys come in two forms, inline: <q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">The nice thing about standards is that there are so many to choose from</q> and block:
-					</p>
-					<blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-						&ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
-					</blockquote>
-				</section>
-
-				<section>
-					<h2>Intergalactic Interconnections</h2>
-					<p>
-						You can link between slides internally,
-						<a href="#/2/3">like this</a>.
-					</p>
-				</section>
-
-				<section>
-					<h2>Speaker View</h2>
-					<p>There's a <a href="https://github.com/hakimel/reveal.js#speaker-notes">speaker view</a>. It includes a timer, preview of the upcoming slide as well as your speaker notes.</p>
-					<p>Press the <em>S</em> key to try it out.</p>
-
-					<aside class="notes">
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-					</aside>
-				</section>
-
-				<section>
-					<h2>Export to PDF</h2>
-					<p>Presentations can be <a href="https://github.com/hakimel/reveal.js#pdf-export">exported to PDF</a>, here's an example:</p>
-					<iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-				</section>
-
-				<section>
-					<h2>Global State</h2>
-					<p>
-						Set <code>data-state="something"</code> on a slide and <code>"something"</code>
-						will be added as a class to the document element when the slide is open. This lets you
-						apply broader style changes, like switching the page background.
-					</p>
-				</section>
-
-				<section data-state="customevent">
-					<h2>State Events</h2>
-					<p>
-						Additionally custom events can be triggered on a per slide basis by binding to the <code>data-state</code> name.
-					</p>
-					<pre><code class="javascript" data-trim contenteditable style="font-size: 18px;">
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					</code></pre>
-				</section>
-
-				<section>
-					<h2>Take a Moment</h2>
-					<p>
-						Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-					</p>
-				</section>
-
-				<section>
-					<h2>Much more</h2>
-					<ul>
-						<li>Right-to-left support</li>
-						<li><a href="https://github.com/hakimel/reveal.js#api">Extensive JavaScript API</a></li>
-						<li><a href="https://github.com/hakimel/reveal.js#auto-sliding">Auto-progression</a></li>
-						<li><a href="https://github.com/hakimel/reveal.js#parallax-background">Parallax backgrounds</a></li>
-						<li><a href="https://github.com/hakimel/reveal.js#keyboard-bindings">Custom keyboard bindings</a></li>
-					</ul>
-				</section>
-
-				<section style="text-align: left;">
-					<h1>THE END</h1>
-					<p>
-						- <a href="https://slides.com">Try the online editor</a> <br>
-						- <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
-					</p>
-				</section>
-
-			</div>
-
+                <section>
+                    <section data-background-iframe="https://giphy.com/embed/cODrlNTkGnZGVtVagd" data-background-opacity="0.5">
+                        <br>
+						<br>
+						<br>
+						<br>
+						<h2><strong>Cuidado com seus dados!</strong></h2>
+                    </section>
+                </section>
+            </div>
 		</div>
 
 		<script src="js/reveal.js"></script>
 
 		<script>
-
-			// More info https://github.com/hakimel/reveal.js#configuration
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
-				controls: true,
-				progress: true,
-				center: true,
-				hash: true,
 
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
+	// Display presentation control arrows
+	controls: true,
 
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true },
-					{ src: 'plugin/search/search.js', async: true },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
+	// Help the user learn the controls by providing hints, for example by
+	// bouncing the down arrow when they first encounter a vertical slide
+	controlsTutorial: true,
 
+	// Determines where controls appear, "edges" or "bottom-right"
+	controlsLayout: 'bottom-right',
+
+	// Visibility rule for backwards navigation arrows; "faded", "hidden"
+	// or "visible"
+	controlsBackArrows: 'faded',
+
+	// Display a presentation progress bar
+	progress: true,
+
+	// Set default timing of 2 minutes per slide
+	defaultTiming: 120,
+
+	// Display the page number of the current slide
+	slideNumber: false,
+
+	// Push each slide change to the browser history
+	history: false,
+
+	// Enable keyboard shortcuts for navigation
+	keyboard: true,
+
+	// Enable the slide overview mode
+	overview: true,
+
+	// Vertical centering of slides
+	center: true,
+
+	// Enables touch navigation on devices with touch input
+	touch: true,
+
+	// Loop the presentation
+	loop: false,
+
+	// Change the presentation direction to be RTL
+	rtl: false,
+
+	// Randomizes the order of slides each time the presentation loads
+	shuffle: false,
+
+	// Turns fragments on and off globally
+	fragments: true,
+
+	// Flags if the presentation is running in an embedded mode,
+	// i.e. contained within a limited portion of the screen
+	embedded: false,
+
+	// Flags if we should show a help overlay when the questionmark
+	// key is pressed
+	help: true,
+
+	// Flags if speaker notes should be visible to all viewers
+	showNotes: false,
+
+	// Global override for autoplaying embedded media (video/audio/iframe)
+	// - null: Media will only autoplay if data-autoplay is present
+	// - true: All media will autoplay, regardless of individual setting
+	// - false: No media will autoplay, regardless of individual setting
+	autoPlayMedia: null,
+
+	// Number of milliseconds between automatically proceeding to the
+	// next slide, disabled when set to 0, this value can be overwritten
+	// by using a data-autoslide attribute on your slides
+	autoSlide: 0,
+
+	// Stop auto-sliding after user input
+	autoSlideStoppable: true,
+
+	// Use this method for navigation when auto-sliding
+	autoSlideMethod: Reveal.navigateNext,
+
+	// Enable slide navigation via mouse wheel
+	mouseWheel: false,
+
+	// Hides the address bar on mobile devices
+	hideAddressBar: true,
+
+	// Opens links in an iframe preview overlay
+	// Add `data-preview-link` and `data-preview-link="false"` to customise each link
+	// individually
+	previewLinks: false,
+
+	// Transition style
+	transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+	// Transition speed
+	transitionSpeed: 'default', // default/fast/slow
+
+	// Transition style for full page slide backgrounds
+	backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
+
+	// Number of slides away from the current that are visible
+	viewDistance: 3,
+
+	// Parallax background image
+	parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+
+	// Parallax background size
+	parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
+
+	// Number of pixels to move the parallax background per slide
+	// - Calculated automatically unless specified
+	// - Set to 0 to disable movement along an axis
+	parallaxBackgroundHorizontal: null,
+	parallaxBackgroundVertical: null,
+
+	// The display mode that will be used to show slides
+	display: 'block'
+
+});
 		</script>
-
 	</body>
 </html>
