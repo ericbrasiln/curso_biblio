@@ -1,0 +1,362 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Minicurso - Levantamento Bibliográfico e Gerenciador de Referências</title>
+		<meta name="author" content="Eric Brasil">
+        
+        <meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/night.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>II Semana de História</h1>
+					<h2>Unilab - IHL, Campus dos Malês</h2>
+					<small>Minicurso - 27/11/2019, 9h-12h e 28/11/2019, 14h-17h</small>
+				</section>
+
+				<section>
+					<h2>Levantamento bibliográfico e gerenciamento de referências em meio digital</h2>
+					<small>Prof <a href="https://www.researchgate.net/profile/Eric_Brasil">Eric Brasil</a></small>
+					<small>- Coordenador do Curso de Licenciatura em História</small>
+					<small>contato: profericbrasil@unilab.ecu.br</small>
+				</section>
+
+				<section>
+					<h2>Humanidades Digitais</h2>
+					<p>Desafios, limites e possibilidades impostas pelas tecnologias de informação e comunicação na pesquisa em humanidades
+					</p>
+				</section>
+
+				<section>
+					<section data-background="https://images.pexels.com/photos/1907785/pexels-photo-1907785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-opacity="0.5">
+						<h2><strong>Primeiro passo em qualquer pesquisa: levantamento bibliográfico</strong></h2>
+
+						<br>
+						<a href="#" class="navigate-down"> </a>
+					</section>
+
+					<section data-background-image="https://cdn.pixabay.com/photo/2015/12/19/20/34/phone-1100260_960_720.jpg" data-background-opacity="0.5">
+						<h4><strong>Quais as diferências da pesquisa digital para a analógica?</strong></h4>
+					</section>
+
+					<section>
+						<h2>Principais ferramentas digitais</h2>
+						<p>Apesar da frequência com que utilizamos ferramentas de buscas on-line, poucas vezes refletimos sobre seu funcionamento e suas implicações.</p>
+					</section>
+
+					<section>
+						<h4>Muitos elementos influenciam nos resultados de uma busca:</h4>
+						<ul>
+							<li>os termos utilizados</li>
+							<li>os sites acessados</li>
+							<li>histórico dos algorítmos de seu IP</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3> <a href="https://scholar.google.com.br/scholar?q=">Google Acadêmico</a></h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.periodicos.capes.gov.br/">Periódicos Capes</a></h3>
+                    </section>
+
+					<section>
+						<h3> <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp">Domínio Público</a></h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.academia.edu/">Academia.edu</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://www.researchgate.net/">Research Gate</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://repositorio.ufba.br/ri/">Bancos de teses e dissertações das IES</a> </h3>
+					</section>
+
+					<section>
+						<h3> <a href="https://archive.org/">Internet Archive</a> </h3>
+					</section>
+				</section>
+
+				<section data-transition="slide" data-background="#5d0000" data-background-transition="zoom">
+					<section>
+						<h2>Ok, Google!</h2>
+						<p>Talvez uma das ferramentas mais utilizadas para a busca inicial de bibliografia seja o <a href="http://google.com.br">Google</a></p>
+					</section>
+					
+					<section>
+						<h2>Mas é pouco!</h2>
+						<p>Um recurso do Google muito útil é o  <a href="https://scholar.google.com.br/">Google Acadêmico</a>.</p>
+						<p>Com ele suas buscas podem ser feitas de forma mais precisa.</p>
+						<br>
+						<a href="#" class="navigate-down">
+						</a>
+					</section>
+
+					<section>
+						<h2>Extensão para o Chrome</h2>
+						<p>Instalando essa <a href="https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=pt-BR">extensão</a>, vc poderá agilizar suas buscas</p>
+						<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">
+					</section>
+                </section>
+
+				<section data-transition="slide" data-background="#5b4171" data-background-transition="zoom">
+					<section>
+						<h2>Repositórios de acesso fechado</h2>
+						<p>Muitas revistas, especialmente internacionais, não têm acesso livre e gratuito. Entretanto, as universidades brasileiras garantem o acesso a várias delas, seja através da consulta nos campi seja através de proxy.
+					</section>
+
+					<section>
+						<h4>Vejamos alguns desses repositórios e vamos testar o acesso que a Unilab nos permite</h4>
+					</section>
+
+					<section>
+						<h3><a href="https://www.jstor.org/">JStor</a></h3>
+					</section>
+
+					<section>
+						<h3><a href="https://muse.jhu.edu/">Project Muse</a></h3>
+					</section>
+				</section>
+
+                <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
+					<section>
+						<h1> <strong>Hacker aqui</strong></h1>
+						<br>
+						<h4 class= "fragment grow"><a href="https://sci-hub.tw/">Sci-hub</a></h4>
+						<h4 class= "fragment grow"><a href="http://gen.lib.rus.ec/">Library Genesis</a></h4>
+						<h4 class= "fragment grow"><a href="https://piratebay-proxylist.se/?utm_source=expired&referral=bayahoy.info">Pirate Bay</a></h4>
+					</section>
+					<section data-background-iframe="https://giphy.com/embed/mIZ9rPeMKefm0" >
+                        <p></p>
+                        <br>
+                    </section>
+				</section>
+
+				<section>
+
+					<section>
+						<h2>Gerenciamento de Referências bibliográficas</h2>
+						<p>um recurso indispensável</p>
+						<a href="#" class="navigate-down">
+						</a>
+					</section>
+
+						<section>
+							<h2><a href="https://www.zotero.org/">Zotero</a></h2>
+							<p>Limites, possibilidades e funcionalidades do software</p>
+						</section>
+
+						<section>
+							<h2>Downloads</h2>
+							<p>Baixe o <a href="https://www.zotero.org/download/">app e a extensão</a> para seu browser.</p>
+						</section>
+
+						<section>
+							<h3>Criando uma conta.</h3>
+						</section>
+
+						<section>
+							<h3>Configurando o app</h3>
+						</section>
+
+						<section>
+							<h3>Criando bibliotecas e coleções</h3>
+						</section>
+
+						<section>
+							<h3>Adicionando itens</h3>
+						</section>
+
+						<section>
+							<h3>Extensão no browser</h3>
+						</section>
+
+						<section>
+							<h3>Tags</h3>
+						</section>
+
+						<section>
+							<h3>Grupos</h3>
+						</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>Usando o plugin nos editores de texto</h2>
+						<small>pra mudar sua vida</small>
+						<a href="#" class="navigate-down">
+						</a>
+					</section>
+						<section>
+							<h3>Incluir citação</h3>
+						</section>
+				</section>
+
+                <section>
+                    <section data-background-iframe="https://giphy.com/embed/cODrlNTkGnZGVtVagd" data-background-opacity="0.5">
+                        <br>
+						<br>
+						<br>
+						<br>
+						<h2><strong>Cuidado com seus dados!</strong></h2>
+                    </section>
+                </section>
+            </div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+
+	// Display presentation control arrows
+	controls: true,
+
+	// Help the user learn the controls by providing hints, for example by
+	// bouncing the down arrow when they first encounter a vertical slide
+	controlsTutorial: true,
+
+	// Determines where controls appear, "edges" or "bottom-right"
+	controlsLayout: 'bottom-right',
+
+	// Visibility rule for backwards navigation arrows; "faded", "hidden"
+	// or "visible"
+	controlsBackArrows: 'faded',
+
+	// Display a presentation progress bar
+	progress: true,
+
+	// Set default timing of 2 minutes per slide
+	defaultTiming: 120,
+
+	// Display the page number of the current slide
+	slideNumber: false,
+
+	// Push each slide change to the browser history
+	history: false,
+
+	// Enable keyboard shortcuts for navigation
+	keyboard: true,
+
+	// Enable the slide overview mode
+	overview: true,
+
+	// Vertical centering of slides
+	center: true,
+
+	// Enables touch navigation on devices with touch input
+	touch: true,
+
+	// Loop the presentation
+	loop: false,
+
+	// Change the presentation direction to be RTL
+	rtl: false,
+
+	// Randomizes the order of slides each time the presentation loads
+	shuffle: false,
+
+	// Turns fragments on and off globally
+	fragments: true,
+
+	// Flags if the presentation is running in an embedded mode,
+	// i.e. contained within a limited portion of the screen
+	embedded: false,
+
+	// Flags if we should show a help overlay when the questionmark
+	// key is pressed
+	help: true,
+
+	// Flags if speaker notes should be visible to all viewers
+	showNotes: false,
+
+	// Global override for autoplaying embedded media (video/audio/iframe)
+	// - null: Media will only autoplay if data-autoplay is present
+	// - true: All media will autoplay, regardless of individual setting
+	// - false: No media will autoplay, regardless of individual setting
+	autoPlayMedia: null,
+
+	// Number of milliseconds between automatically proceeding to the
+	// next slide, disabled when set to 0, this value can be overwritten
+	// by using a data-autoslide attribute on your slides
+	autoSlide: 0,
+
+	// Stop auto-sliding after user input
+	autoSlideStoppable: true,
+
+	// Use this method for navigation when auto-sliding
+	autoSlideMethod: Reveal.navigateNext,
+
+	// Enable slide navigation via mouse wheel
+	mouseWheel: false,
+
+	// Hides the address bar on mobile devices
+	hideAddressBar: true,
+
+	// Opens links in an iframe preview overlay
+	// Add `data-preview-link` and `data-preview-link="false"` to customise each link
+	// individually
+	previewLinks: false,
+
+	// Transition style
+	transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+	// Transition speed
+	transitionSpeed: 'default', // default/fast/slow
+
+	// Transition style for full page slide backgrounds
+	backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
+
+	// Number of slides away from the current that are visible
+	viewDistance: 3,
+
+	// Parallax background image
+	parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+
+	// Parallax background size
+	parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
+
+	// Number of pixels to move the parallax background per slide
+	// - Calculated automatically unless specified
+	// - Set to 0 to disable movement along an axis
+	parallaxBackgroundHorizontal: null,
+	parallaxBackgroundVertical: null,
+
+	// The display mode that will be used to show slides
+	display: 'block'
+
+});
+		</script>
+	</body>
+</html>
