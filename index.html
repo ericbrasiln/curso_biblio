@@ -39,7 +39,7 @@
 
 				<section>
 					<h2>Levantamento bibliográfico e gerenciamento de referências em meio digital</h2>
-					<small>Prof <a href="https://www.researchgate.net/profile/Eric_Brasil">Eric Brasil</a></small>
+					<small>Prof <a href="https://ericbrasiln.github.io/">Eric Brasil</a></small>
 					<small>- Coordenador do Curso de Licenciatura em História</small>
 					<small>contato: profericbrasil@unilab.ecu.br</small>
 				</section>
@@ -82,7 +82,7 @@
 
 					<section>
 						<h3> <a href="https://www.periodicos.capes.gov.br/">Periódicos Capes</a></h3>
-                    </section>
+                    			</section>
 
 					<section>
 						<h3> <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp">Domínio Público</a></h3>
@@ -130,7 +130,7 @@
 						<h2>Atenção com o Google e seus algoritmos</h2>
 						<p>A programação é criada por <a href="https://theintercept.com/2019/11/19/fake-news-google-blogueiros-antipetistas/">HUMANOS</a>, então não há nada isento</p>
 					</section>
-        </section>
+     				</section>
 
 				<section data-transition="slide" data-background="#5b4171" data-background-transition="zoom">
 					<section>
@@ -151,7 +151,7 @@
 					</section>
 				</section>
 
-        <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
+       				<section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
 					<section>
 						<h1> <strong>Hacker aqui</strong></h1>
 						<br>
@@ -159,10 +159,10 @@
 						<h4 class= "fragment grow"><a href="http://gen.lib.rus.ec/">Library Genesis</a></h4>
 						<h4 class= "fragment grow"><a href="https://piratebay-proxylist.se/?utm_source=expired&referral=bayahoy.info">Pirate Bay</a></h4>
 					</section>
-					<section data-background-iframe="https://giphy.com/embed/mIZ9rPeMKefm0" >
-                        <p></p>
-                        <br>
-                    </section>
+						<section data-background-iframe="https://giphy.com/embed/mIZ9rPeMKefm0" >
+                        			<p></p>
+                       				<br>
+                    				</section>
 				</section>
 
 				<section>
@@ -237,15 +237,16 @@
 						</section>
 				</section>
 
-                <section>
-                    <section data-background-iframe="https://giphy.com/embed/cODrlNTkGnZGVtVagd" data-background-opacity="0.5">
-                        <br>
+              			<section>
+					<section data-background-iframe="https://giphy.com/embed/cODrlNTkGnZGVtVagd" data-background-opacity="0.5">
+						<br>
 						<br>
 						<br>
 						<br>
 						<h2><strong>Cuidado com seus dados!</strong></h2>
-                    </section>
-                </section>
+					</section>
+               			</section>
+		
             </div>
 		</div>
 
