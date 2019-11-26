@@ -6,7 +6,7 @@
 
 		<title>Minicurso - Levantamento Bibliográfico e Gerenciador de Referências</title>
 		<meta name="author" content="Eric Brasil">
-        
+
         <meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
@@ -110,7 +110,7 @@
 						<h2>Ok, Google!</h2>
 						<p>Talvez uma das ferramentas mais utilizadas para a busca inicial de bibliografia seja o <a href="http://google.com.br">Google</a></p>
 					</section>
-					
+
 					<section>
 						<h2>Mas é pouco!</h2>
 						<p>Um recurso do Google muito útil é o  <a href="https://scholar.google.com.br/">Google Acadêmico</a>.</p>
@@ -125,11 +125,16 @@
 						<p>Instalando essa <a href="https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=pt-BR">extensão</a>, vc poderá agilizar suas buscas</p>
 						<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">
 					</section>
-                </section>
+
+					<section data-transition="slide" data-background-image="https://theintercept.imgix.net/wp-uploads/sites/1/2019/11/grana-por-cliques-header-1573327737.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720" data-background-transition="zoom" data-background-opacity="0.5">
+						<h2>Atenção com o Google e seus algoritmos</h2>
+						<p>A programação é criada por <a href="https://theintercept.com/2019/11/19/fake-news-google-blogueiros-antipetistas/">HUMANOS</a>, então não há nada isento</p>
+					</section>
+        </section>
 
 				<section data-transition="slide" data-background="#5b4171" data-background-transition="zoom">
 					<section>
-						<h2>Repositórios de acesso fechado</h2>
+						<h2>Repositórios de acesso limitado</h2>
 						<p>Muitas revistas, especialmente internacionais, não têm acesso livre e gratuito. Entretanto, as universidades brasileiras garantem o acesso a várias delas, seja através da consulta nos campi seja através de proxy.
 					</section>
 
@@ -146,7 +151,7 @@
 					</section>
 				</section>
 
-                <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
+        <section data-transition="slide" data-background-image="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-background-transition="zoom">
 					<section>
 						<h1> <strong>Hacker aqui</strong></h1>
 						<br>
@@ -180,7 +185,7 @@
 						</section>
 
 						<section>
-							<h3>Criando uma conta.</h3>
+							<h3>Criando uma conta</h3>
 						</section>
 
 						<section>
@@ -204,6 +209,10 @@
 						</section>
 
 						<section>
+							<h3>Sincronizando on-line</h3>
+						</section>
+
+						<section>
 							<h3>Grupos</h3>
 						</section>
 				</section>
@@ -217,6 +226,14 @@
 					</section>
 						<section>
 							<h3>Incluir citação</h3>
+						</section>
+
+						<section>
+							<h3>Incluir Bibliografia</h3>
+						</section>
+
+						<section>
+							<h3>Atualizar referências</h3>
 						</section>
 				</section>
 
